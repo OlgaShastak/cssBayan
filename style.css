@@ -115,5 +115,18 @@ body {
 }
 @media (max-width: 320px) {
 
+  .accordion__title {
+    font-size: 100%;
+  }
 
+  .accordion__content {
+    font-size: 70%;
+    width: 200px;
+    height: 200px;
+  }
+
+  .logo {
+    font-size: 120%;
+    margin: 10px 0;
+  }
 }
