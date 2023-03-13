@@ -89,20 +89,20 @@ body {
 }
 
 .img1 {
-  background-image: url(../Screenshot_6.png);
+  background-image: url(../cssBayan/img/Screenshot_6.png);
 }
 
 .img2 {
-  background-image: url(../Screenshot_7.png);
+  background-image: url(../cssBayan/img/Screenshot_7.png)
 }
 .img3 {
-  background-image: url(../Screenshot_2.png);
+  background-image: url(../cssBayan/img/Screenshot_2.png)
 }
 .img4 {
-  background-image: url(../Screenshot_4.png);
+  background-image: url(../cssBayan/img/Screenshot_4.png);
 }
 .img5 {
-  background-image: url(../Screenshot_3.png);
+  background-image: url(../cssBayan/img/Screenshot_3.png);
 }
 
 @media (max-width: 1920px) {
