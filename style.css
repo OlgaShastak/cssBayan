@@ -20,10 +20,11 @@ body {
 }
 
 .container {
-  max-width: 1080px;
+  max-width: 60%;
   margin: 0 auto;
   padding: 0 10px;
   color: #4530a5;
+  cursor: pointer;
 }
 
 .container:hover {
@@ -56,6 +57,7 @@ body {
   justify-content: space-between;
   position: relative;
   cursor: pointer;
+  transition: all ease 0.3s;
 }
 
 .accordion__title::after {
